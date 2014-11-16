@@ -298,7 +298,10 @@ Compared with weekends at weekdays we can see the peak activity at 9AM and sever
 
 <br>
 <br>
-
+<hr>
+<p>Read to the end?</p>
+<p>Thank you!</p>
+<p>Get some <a href="http://imgur.com/gallery/H9o39">brave cats</a> in reward.</p>
 
 
 
